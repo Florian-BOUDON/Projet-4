@@ -1,4 +1,4 @@
-# Projet-4: EDA & Régression
+# Projet-4: EDA & Régressions
 
 
 ## Description du Projet
@@ -28,15 +28,16 @@ Dans le premier script, nous nous concentrerons sur la préparation des données
 ### Notebook 2 : Modélisation - Prédiction de la Consommation d'Énergie
 Dans le deuxième script, nous nous concentrerons sur la prédiction de la consommation d'énergie en utilisant plusieurs modèles linéaires et non linéaires en concurrence. Nous effectuerons les étapes suivantes :
 
-- Régression multiple pour créer un modèle linéaire initial.
-- Régression multiple sur des données centrées et réduites pour améliorer la performance du modèle.
-- Régression multiple sur des données transformées en log pour gérer les valeurs extrêmes.
-- Régression logistique pour gérer la classification des données.
-- Prédiction avec XGBoost pour utiliser un modèle non linéaire avec des hyperparamètres ajustables.
+- Régression multiple pour créer un modèle linéaire initial
+- Régression multiple sur des données centrées et réduites pour améliorer la performance du modèle
+- Régression multiple sur des données transformées en log pour gérer les valeurs extrêmes
+- Régression logistique pour gérer la classification des données
+- Prédiction avec XGBoost pour utiliser un modèle non linéaire avec des hyperparamètres ajustables        
 Nous comparerons les performances et la complexité de chaque modèle pour choisir celui qui convient le mieux à la prédiction de la consommation d'énergie.
 
 ### Notebbok 3 : Modélisation - Prédiction des Émissions de CO2
-Le troisième script est similaire au deuxième, mais cette fois-ci, nous nous concentrerons sur la prédiction des émissions de CO2 des bâtiments publics. Nous utiliserons les mêmes modèles linéaires et non linéaires pour cette tâche de prédiction.
+Le troisième script est similaire au deuxième, mais cette fois-ci, nous nous concentrerons sur la prédiction des émissions de CO2 des bâtiments publics.    
+Nous utiliserons les mêmes modèles linéaires et non linéaires pour cette tâche de prédiction.
 
 ### Prérequis
 Nous utilisons un environnement contenant :
@@ -51,8 +52,7 @@ xgboost
 
 ### Structure des Fichiers
 
-.
-├── data       
+├── Data       
 │   ├── data1.csv     
 │   ├── data2.csv      
 ├──Modele     
@@ -75,7 +75,7 @@ Ce projet de Machine Learning basé sur le concours de la ville de Seattle vise 
 En utilisant des modèles linéaires et non linéaires en concurrence, nous chercherons à identifier les meilleurs modèles pour chaque tâche de prédiction.     
 La réussite de ce projet nous permettra d'éviter des relevés manuels annuels coûteux en utilisant des modèles prédictifs précis.      
 
-Ce projet fait partie de la formation Data-Scientist de Openclassroom & Central'Supelec (certificat bac+5)
+Ce projet fait partie de la formation Data-Scientist de Openclassrooms & Central'Supelec (certificat bac+5)
 
 
 
