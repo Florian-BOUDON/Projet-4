@@ -32,7 +32,8 @@ Dans le deuxième script, nous nous concentrerons sur la prédiction de la conso
 - Régression multiple sur des données centrées et réduites pour améliorer la performance du modèle
 - Régression multiple sur des données transformées en log pour gérer les valeurs extrêmes
 - Régression logistique pour gérer la classification des données
-- Prédiction avec XGBoost pour utiliser un modèle non linéaire avec des hyperparamètres ajustables        
+- Prédiction avec XGBoost pour utiliser un modèle non linéaire avec des hyperparamètres ajustables
+    
 Nous comparerons les performances et la complexité de chaque modèle pour choisir celui qui convient le mieux à la prédiction de la consommation d'énergie.
 
 ### Notebbok 3 : Modélisation - Prédiction des Émissions de CO2
