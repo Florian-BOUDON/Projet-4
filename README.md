@@ -1,4 +1,4 @@
-# Projet-4
+# Projet-4: EDA & Régression
 
 
 ## Description du Projet
@@ -7,7 +7,8 @@ L'objectif de ce projet est de créer un modèle prédictif de la consommation d
 L'objectif ultime est d'éviter de réaliser des relevés manuels annuels en utilisant des modèles prédictifs fiables.    
 Les données ont été chargé depuis le site de la ville de Seattle : https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
 
-Le jeu de données provient de la ville de Seattle et comprend des informations sur la consommation d'énergie et les émissions de CO2 pour différents bâtiments publics. Nous allons diviser le projet en trois scripts distincts pour mieux organiser le flux de travail :
+Le jeu de données provient de la ville de Seattle et comprend des informations sur la consommation d'énergie et les émissions de CO2 pour différents bâtiments publics.      
+Nous allons diviser le projet en trois scripts distincts pour mieux organiser le flux de travail.
 
 ### Notebook 1 : 🛠 Nettoyage & analyses exploratoires des données
 Dans le premier script, nous nous concentrerons sur la préparation des données en effectuant les opérations suivantes :
@@ -51,25 +52,30 @@ xgboost
 ### Structure des Fichiers
 
 .
-├── data
-│   ├── energy_consumption.csv
-│   ├── co2_emissions.csv
-├── script_1_data_preparation.ipynb
-├── script_2_energy_prediction.ipynb
-├── script_3_co2_prediction.ipynb
-└── README.md
+├── data       
+│   ├── data1.csv     
+│   ├── data2.csv      
+├──Modele     
+│   ├── Regression.py     
+│   ├── EDA.py      
+├──Notebooks     
+│  ├── Notebook_1_data_preparation.ipynb     
+│  ├── Notebook_2_energy_prediction.ipynb      
+│  ├──Notebook_3_co2_prediction.ipynb      
+├── Seattle_picture.png       
+└── README.md     
 
 
-Le dossier "data" contient les fichiers CSV du jeu de données de la ville de Seattle.
-Les trois scripts sont au format Jupyter Notebook, chacun se concentrant sur une partie spécifique du projet.
-Le fichier README.md est le présent document, fournissant une présentation détaillée du projet.
+Le dossier "data" contient les fichiers CSV du jeu de données de la ville de Seattle.      
+Les trois scripts sont au format Jupyter Notebook, chacun se concentrant sur une partie spécifique du projet.      
+Le fichier README.md est le présent document, fournissant une présentation détaillée du projet.      
 
 ### Conclusion
 Ce projet de Machine Learning basé sur le concours de la ville de Seattle vise à créer des modèles prédictifs fiables pour la consommation d'énergie et les émissions de CO2 des bâtiments publics.    
 En utilisant des modèles linéaires et non linéaires en concurrence, nous chercherons à identifier les meilleurs modèles pour chaque tâche de prédiction.     
 La réussite de ce projet nous permettra d'éviter des relevés manuels annuels coûteux en utilisant des modèles prédictifs précis.      
 
-Ce projet fait parti de la formation Data-Scientist de Openclassroom & Central'Supelec (certificat bac+5)
+Ce projet fait partie de la formation Data-Scientist de Openclassroom & Central'Supelec (certificat bac+5)
 
 
 
