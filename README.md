@@ -4,8 +4,8 @@
 ## Description du Projet
 Bienvenue dans notre projet de Machine Learning basé sur le concours de la ville de Seattle !    
 L'objectif de ce projet est de créer un modèle prédictif de la consommation d'énergie et de CO2 des bâtiments publics.     
-L'objectif ultime est d'éviter de réaliser des relevés manuels annuels en utilisant des modèles prédictifs fiables.    
-Les données ont été chargé depuis le site de la ville de Seattle : https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
+L'objectif est d'éviter de réaliser des relevés manuels annuellements en utilisant des modèles prédictifs fiables.    
+Les données sont chargées depuis le site de la ville de Seattle : https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
 
 Le jeu de données provient de la ville de Seattle et comprend des informations sur la consommation d'énergie et les émissions de CO2 pour différents bâtiments publics.      
 Nous allons diviser le projet en trois scripts distincts pour mieux organiser le flux de travail.
@@ -75,7 +75,7 @@ Ce projet de Machine Learning basé sur le concours de la ville de Seattle vise 
 En utilisant des modèles linéaires et non linéaires en concurrence, nous chercherons à identifier les meilleurs modèles pour chaque tâche de prédiction.     
 La réussite de ce projet nous permettra d'éviter des relevés manuels annuels coûteux en utilisant des modèles prédictifs précis.      
 
-Ce projet fait partie de la formation Data-Scientist de Openclassrooms & Central'Supelec (certificat bac+5)
+Ce projet fait partie de la formation Data-Scientist de Openclassrooms & Central'Supelec (certificat bac+5).
 
 
 
