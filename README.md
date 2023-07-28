@@ -1,7 +1,7 @@
-# Projet-4: EDA & Régressions
+# Projet-4: EDA & régressions
 
 
-## Description du Projet
+## Description du projet
 Bienvenue dans notre projet de Machine Learning basé sur le concours de la ville de Seattle !    
 L'objectif de ce projet est de créer un modèle prédictif de la consommation d'énergie et de CO2 des bâtiments publics.     
 Le but est d'éviter de réaliser des relevés manuels annuellements en utilisant des modèles prédictifs fiables.    
@@ -10,7 +10,7 @@ Les données sont chargées depuis le site de la ville de Seattle : https://data
 Le jeu de données provient de la ville de Seattle et comprend des informations sur la consommation d'énergie et les émissions de CO2 pour différents bâtiments publics.      
 Nous allons diviser le projet en trois scripts distincts pour mieux organiser le flux de travail.
 
-### Notebook 1 : 🛠 Nettoyage & analyses exploratoires des données
+### Notebook 1 : 🛠 nettoyage & analyses exploratoires des données
 Dans le premier script, nous nous concentrerons sur la préparation des données en effectuant les opérations suivantes :
 
 - Chargement des données à partir des fichiers CSV fournis par la ville de Seattle
@@ -25,7 +25,7 @@ Dans le premier script, nous nous concentrerons sur la préparation des données
 - Label Encoder
 - Jointure des différentes tables du jeu de données pour créer un ensemble de données cohérent
   
-### Notebook 2 : Modélisation - Prédiction de la Consommation d'Énergie
+### Notebook 2 : modélisation - prédiction de la consommation d'énergie
 Dans le deuxième script, nous nous concentrerons sur la prédiction de la consommation d'énergie en utilisant plusieurs modèles linéaires et non linéaires en concurrence. Nous effectuerons les étapes suivantes :
 
 - Régression multiple pour créer un modèle linéaire initial
@@ -36,7 +36,7 @@ Dans le deuxième script, nous nous concentrerons sur la prédiction de la conso
     
 Nous comparerons les performances et la complexité de chaque modèle pour choisir celui qui convient le mieux à la prédiction de la consommation d'énergie.
 
-### Notebbok 3 : Modélisation - Prédiction des Émissions de CO2
+### Notebbok 3 : modélisation - prédiction des émissions de CO2
 Le troisième script est similaire au deuxième, mais cette fois-ci, nous nous concentrerons sur la prédiction des émissions de CO2 des bâtiments publics.    
 Nous utiliserons les mêmes modèles linéaires et non linéaires pour cette tâche de prédiction.
 
@@ -51,7 +51,7 @@ seaborn
 scikit-learn    
 xgboost    
 
-### Structure des Fichiers
+### Structure des fichiers
 
 ├── Data       
 │   ├── data1.csv     
