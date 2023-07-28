@@ -76,7 +76,7 @@ Ce projet de Machine Learning basé sur le concours de la ville de Seattle vise 
 En utilisant des modèles linéaires et non linéaires en concurrence, nous chercherons à identifier les meilleurs modèles pour chaque tâche de prédiction.     
 La réussite de ce projet nous permettra d'éviter des relevés manuels annuels coûteux en utilisant des modèles prédictifs précis.      
 
-Ce projet fait partie de la formation Data-Scientist de Openclassrooms & Central'Supelec (certificat bac+5).
+Ce projet fait partie de la formation Data-Scientist de CentraleSupélec & Openclassrooms (certificat bac+5).
 
 
 
