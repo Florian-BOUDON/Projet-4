@@ -1,4 +1,4 @@
-# Projet-4: EDA & régressions
+# Projet 4: EDA & régressions
 
 
 ## Description du projet
