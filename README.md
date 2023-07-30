@@ -72,12 +72,12 @@ Les trois scripts sont au format jupyter notebook, chacun se concentrant sur une
 Le fichier README.md est le présent document, fournissant une présentation détaillée du projet.      
 
 ### Conclusion
-Ce projet de Machine Learning basé sur le concours de la ville de Seattle vise à créer des modèles prédictifs fiables pour la consommation d'énergie et les émissions de CO2 des bâtiments publics.    
+Ce projet de machine learning basé sur le concours de la ville de Seattle vise à créer des modèles prédictifs fiables pour la consommation d'énergie et les émissions de CO2 des bâtiments publics.    
 En utilisant des modèles linéaires et non linéaires en concurrence, nous chercherons à identifier les meilleurs modèles pour chaque tâche de prédiction.     
 La réussite de ce projet nous permettra d'éviter des relevés manuels annuels coûteux en utilisant des modèles prédictifs précis.      
 
 **********
-Ce projet fait partie de la formation Data-Scientist de CentraleSupélec & Openclassrooms (certificat bac+5).
+Ce projet fait partie de la formation data-scientist de CentraleSupélec & Openclassrooms (certificat bac+5).
 
 
 
