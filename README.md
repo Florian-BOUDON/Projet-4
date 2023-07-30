@@ -21,18 +21,17 @@ Dans le premier script, nous nous concentrerons sur la préparation des données
 - Consommation d'énergie par type de bâtiment (dispersion)
 - Consommation d'énergie en fonction du lieu géographique
 - Matrice des corrélations
-- Création des DF pour le Machine Learning
-- Label Encoder
+- Création des DF pour le machine learning
+- Label-encoder
 - Jointure des différentes tables du jeu de données pour créer un ensemble de données cohérent
   
 ### Notebook 2 : modélisation - prédiction de la consommation d'énergie
 Dans le deuxième script, nous nous concentrerons sur la prédiction de la consommation d'énergie en utilisant plusieurs modèles linéaires et non linéaires en concurrence. Nous effectuerons les étapes suivantes :
 
-- Régression multiple pour créer un modèle linéaire initial
+- Régression linéaire multiple pour créer un modèle linéaire initial
 - Régression multiple sur des données centrées et réduites pour améliorer la performance du modèle
 - Régression multiple sur des données transformées en log pour gérer les valeurs extrêmes
-- Régression logistique pour gérer la classification des données
-- Prédiction avec XGBoost pour utiliser un modèle non linéaire avec des hyperparamètres ajustables
+- Prédiction avec XGBoost pour utiliser un modèle non-linéaire avec des hyperparamètres ajustables
     
 Nous comparerons les performances et la complexité de chaque modèle pour choisir celui qui convient le mieux à la prédiction de la consommation d'énergie.
 
@@ -68,7 +67,7 @@ xgboost
 
 
 Le dossier "data" contient les fichiers CSV du jeu de données de la ville de Seattle.      
-Les trois scripts sont au format Jupyter Notebook, chacun se concentrant sur une partie spécifique du projet.      
+Les trois scripts sont au format jupyter notebook, chacun se concentrant sur une partie spécifique du projet.      
 Le fichier README.md est le présent document, fournissant une présentation détaillée du projet.      
 
 ### Conclusion
