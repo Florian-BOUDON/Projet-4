@@ -30,8 +30,8 @@ Dans le premier script, nous nous concentrerons sur la préparation des données
 Dans le deuxième script, nous nous concentrerons sur la prédiction de la consommation d'énergie en utilisant plusieurs modèles linéaires et non linéaires en concurrence. Nous effectuerons les étapes suivantes :
 
 - Régression linéaire multiple pour créer un modèle linéaire initial
-- Régression multiple sur des données centrées et réduites pour améliorer la performance du modèle
-- Régression multiple sur des données transformées en log pour gérer les valeurs extrêmes
+- Régression linéaire multiple sur des données centrées et réduites pour améliorer la performance du modèle
+- Régression linéaire multiple sur des données transformées en log pour gérer les valeurs extrêmes
 - Prédiction avec XGBoost pour utiliser un modèle non-linéaire avec des hyperparamètres ajustables
     
 Nous comparerons les performances et la complexité de chaque modèle pour choisir celui qui convient le mieux à la prédiction de la consommation d'énergie.
